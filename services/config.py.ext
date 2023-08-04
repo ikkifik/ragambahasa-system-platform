@@ -1,0 +1,13 @@
+class config:
+    # Host url/domain, add port if needed
+    HOST_URL = "http://<your_server_URL>:<your_server_PORT(optional)>"
+
+    # Database
+    DB_HOST = "localhost"
+    DB_PORT = 3306
+    DB_USER = ""
+    DB_PWD = ""
+    DB_NAME = ""
+    
+    # Copy from URL
+    DRIVE_FOLDER_ID = ""    

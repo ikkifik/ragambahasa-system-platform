@@ -1,0 +1,8 @@
+config.py
+*.json
+*.csv
+*.txt
+!requirements.txt
+__pycache__/
+temp/
+tests/

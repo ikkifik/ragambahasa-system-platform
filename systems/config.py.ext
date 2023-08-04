@@ -1,0 +1,23 @@
+class config:
+    HOST_DOMAIN = ""
+    FLASK_HOST = "localhost"
+    FLASK_PORT = 5000
+    DEBUG = True
+    PRODUCTION = False
+    
+    # Database
+    DB_HOST = "localhost"
+    DB_PORT = 3306
+    DB_USER = ""
+    DB_PWD = ""
+    DB_NAME = ""
+    DB_RECREATE = False
+    SQLALCHEMY_DATABASE_URI = f"mysql+pymysql://{DB_USER}:{DB_PWD}@{DB_HOST}/{DB_NAME}"
+
+    # System mail
+    NOREPLY_EMAIL_ADDR = ""
+    NOREPLY_EMAIL_PWD = ""
+    
+    # Newsletter mail
+    NEWSLETTER_EMAIL_ADDR = ""
+    NEWSLETTER_EMAIL_PWD = ""

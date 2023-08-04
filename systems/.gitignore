@@ -1,0 +1,16 @@
+__pycache__/
+.pytest_cache/
+_archives/
+test_code/
+uploaded/
+*.json
+*.csv
+*.txt
+*.md
+*config.py
+
+
+# Exception
+!initial_data/*
+!requirements.txt
+!README.md

@@ -1,0 +1,27 @@
+[
+    {
+        "sc_name": "buku",
+        "sc_type": "printed"
+    },{
+        "sc_name": "majalah",
+        "sc_type": "printed"
+    },{
+        "sc_name": "koran",
+        "sc_type": "printed"
+    },{
+        "sc_name": "manuskrip",
+        "sc_type": "printed"
+    },{
+        "sc_name": "portal berita",
+        "sc_type": "digital"
+    },{
+        "sc_name": "blog",
+        "sc_type": "digital"
+    },{
+        "sc_name": "ebook",
+        "sc_type": "digital"
+    },{
+        "sc_name": "dokumen",
+        "sc_type": "digital"
+    }
+]

@@ -1,0 +1,13 @@
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+flask-login
+asgiref
+pyjwt
+pymysql
+sqlalchemy-utils
+Flask-mail
+gunicorn
+flask-cors
+# boto3
+# pydrive
